@@ -1,4 +1,4 @@
-## Olá eu sou o Pedro Antonio
+## Olá, eu sou o Pedro Antonio
 
 - 🔭 Graduando em Ciência da Computação
 - 🌱 Estudando as linguagens Python e C no momento
